@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PetclinicApplication<petclinic>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.portifolio.petclinic.PetclinicApplication",
+            "projectName": "petclinic",
+            "args": ""
+        }
+    ]
+}
